@@ -1,58 +1,58 @@
-﻿country,region_group,income_group,gdp_per_capita_usd,health_expenditure_pct_gdp,renewable_energy_pct,ease_of_doing _business_rank,internet_use_pct,internet_access,unemployment_pct,unemployment_level,population_growth
-Argentina,LatinAmerica,upper_middle,"14,187.48",9.71,9.2,126,89.23,Medium,6.14,Medium,low growth
-Australia,Asia-Pacific,high,"64,820.91",10.54,12.3,14,94.88,High,3.67,Low,high growth
-Austria,Europe_CentralAsia,high,"56,033.57",12.1,36,27,95.33,High,5.26,Medium,low growth
-Belgium,Europe_CentralAsia,high,"54,700.91",11.04,11.7,46,94.63,High,5.53,Medium,low growth
-Bolivia,LatinAmerica,lower_middle,"3,686.28",8.16,12.8,150,73.28,Low,3.02,Low,low growth
-Brazil,LatinAmerica,upper_middle,"10,294.87",9.89,46.5,124,84.15,Medium,7.95,Medium,low growth
-Bulgaria,Europe_CentralAsia,high,"15,885.54",8.56,20.4,61,80.39,Medium,4.32,Medium,declining
-Cambodia,Asia-Pacific,lower_middle,"2,429.75",7.53,52.4,144,56.73,Low,0.4,Low,low growth
-Canada,North_America,high,"53,431.19",11.15,23.8,23,94,High,5.42,Medium,high growth
-Chile,LatinAmerica,high,"17,067.81",9,24.2,59,94.12,High,9.01,High,low growth
-China,Asia-Pacific,upper_middle,"12,614.06",5.38,15.2,32,77.48,Medium,5.11,Medium,declining
-Costa Rica,LatinAmerica,upper_middle,"16,942.03",7.57,34.2,74,85.13,Medium,8.33,High,low growth
-Croatia,Europe_CentralAsia,high,"21,865.46",8.1,34.1,51,83.24,Medium,6.09,Medium,low growth
-Dominican Republic,LatinAmerica,upper_middle,"10,717.63",4.92,14.8,115,84.38,Medium,5.56,Medium,low growth
-Ecuador,LatinAmerica,upper_middle,"6,609.80",8.29,18.9,129,72.69,Low,3.51,Low,low growth
-Estonia,Europe_CentralAsia,high,"30,133.30",6.94,38,18,93.18,High,6.38,Medium,high growth
-Finland,Europe_CentralAsia,high,"52,925.69",10.25,50.2,20,93.51,High,7.15,Medium,low growth
-France,Europe_CentralAsia,high,"44,690.93",12.31,16.2,33,86.84,Medium,7.34,Medium,low growth
-Germany,Europe_CentralAsia,high,"54,343.23",12.65,17.6,22,92.48,High,3.07,Low,declining
-Guatemala,LatinAmerica,upper_middle,"5,762.82",6.9,62.1,96,54.4,Low,2.34,Low,high growth
-"Hong Kong SAR, China",Asia-Pacific,high,"50,531.74",8.21,0.4,3,95.61,High,2.95,Low,high growth
-Hungary,Europe_CentralAsia,high,"22,141.87",7.38,15.3,52,91.45,High,4.11,Medium,declining
-Iceland,Europe_CentralAsia,high,"79,636.95",8.57,82.4,26,99.86,High,3.52,Low,high growth
-India,Asia-Pacific,lower_middle,"2,480.79",3.28,34.9,62,43.41,Low,4.17,Medium,low growth
-Ireland,Europe_CentralAsia,high,"103,887.80",6.07,12.7,24,95.59,High,4.29,Medium,high growth
-Israel,MENA,high,"52,642.43",7.9,6.2,35,91.85,High,3.37,Low,high growth
-Italy,Europe_CentralAsia,high,"39,003.32",9,17.5,58,87.03,Medium,7.63,Medium,declining
-Jamaica,LatinAmerica,upper_middle,"6,839.73",7.19,10.5,71,85.12,Medium,3.02,Low,low growth
-Japan,Asia-Pacific,high,"33,766.53",10.82,8.8,30,84.92,Medium,2.6,Low,declining
-Kazakhstan,Europe_CentralAsia,upper_middle,"12,918.87",3.92,2,25,92.88,High,4.86,Medium,low growth
-Latvia,Europe_CentralAsia,high,"22,502.84",9.04,44,19,92.19,High,6.47,Medium,declining
-Lebanon,MENA,lower_middle,"3,654.36",10.06,6.8,143,90.05,Medium,11.3,High,low growth
-Luxembourg,Europe_CentralAsia,high,"128,678.19",5.46,20.5,72,99.35,High,5.18,Medium,high growth
-Malaysia,Asia-Pacific,upper_middle,"11,379.09",4.38,7.5,12,97.69,High,3.93,Low,low growth
-Malta,MENA,high,"40,395.77",10.58,8.6,88,91.92,High,3.11,Low,high growth
-Mexico,LatinAmerica,upper_middle,"13,790.02",6.08,13,60,81.18,Medium,2.77,Low,low growth
-Mozambique,Sub-Saharan Africa,low,622.99,9.05,76.9,138,21.21,Low,6.79,Medium,high growth
-Netherlands,Europe_CentralAsia,high,"64,572.01",11.29,12.2,42,97.01,High,3.54,Low,low growth
-New Zealand,Asia-Pacific,high,"48,280.81",10.05,28.9,1,95.73,High,3.73,Low,high growth
-Norway,Europe_CentralAsia,high,"87,925.09",8.14,61.4,9,99,High,3.57,Low,low growth
-Pakistan,Asia-Pacific,lower_middle,"1,365.28",2.91,41.6,108,32.95,Low,6.34,Medium,high growth
-Peru,LatinAmerica,upper_middle,"7,906.59",6.15,30.6,76,74.68,Low,4.9,Medium,low growth
-Philippines,Asia-Pacific,lower_middle,"3,804.87",5.1,28,95,75.21,Medium,2.6,Low,low growth
-Poland,Europe_CentralAsia,high,"22,056.67",6.68,15.2,40,86.41,Medium,2.74,Low,declining
-Portugal,Europe_CentralAsia,high,"27,331.21",10.62,32.3,39,85.79,Medium,6.51,Medium,low growth
-Qatar,MENA,high,"80,195.87",2.89,0,77,100,High,0.13,Low,declining
-Romania,Europe_CentralAsia,high,"18,404.27",6.48,23.6,55,89.2,Medium,5.59,Medium,low growth
-Russian Federation,Europe_CentralAsia,high,"13,817.05",7.39,3.5,29,92.25,High,3.08,Low,declining
-Saudi Arabia,MENA,high,"32,093.96",5.97,0.1,63,100,High,4.01,Medium,high growth
-Singapore,Asia-Pacific,high,"84,734.26",5.57,1.1,2,94.29,High,3.44,Low,high growth
-South Africa,Sub-Saharan Africa,upper_middle,"6,022.54",8.27,9.7,84,74.7,Low,32.1,High,low growth
-Spain,Europe_CentralAsia,high,"33,509.01",10.74,19,31,95.45,High,12.18,High,low growth
-Sweden,Europe_CentralAsia,high,"55,516.84",10.67,57.9,10,95.7,High,7.61,Medium,low growth
-Ukraine,Europe_CentralAsia,upper_middle,"5,069.70",8.01,8.9,64,79.22,Medium,9.83,High,declining
-United Arab Emirates,MENA,high,"49,040.69",5.31,1,16,100,High,2.15,Low,high growth
-United Kingdom,Europe_CentralAsia,high,"49,463.86",11.34,12.2,8,95.34,High,4.03,Medium,low growth
-United States,North_America,high,"82,769.41",16.57,10.9,6,97.13,High,3.64,Low,low growth
+country,region_group,income_group,gdp_per_capita_usd,health_expenditure_pct_gdp,renewable_energy_pct,internet_use_pct,internet_access,unemployment_pct,unemployment_level,population_growth,control_of_corruption_pctile,infant_mortality_per_1k,business_environment_group
+Argentina,LatinAmerica,upper_middle,"14,187.48",9.71,9.2,89.23,Medium,6.14,Medium,low growth,41.98,8.4,Low
+Australia,Asia-Pacific,high,"64,820.91",10.54,12.3,94.88,High,3.67,Low,high growth,95.75,3.2,High
+Austria,Europe_CentralAsia,high,"56,033.57",12.1,36,95.33,High,5.26,Medium,low growth,83.49,2.6,High
+Belgium,Europe_CentralAsia,high,"54,700.91",11.04,11.7,94.63,High,5.53,Medium,low growth,89.15,3.1,Moderate
+Bolivia,LatinAmerica,lower_middle,"3,686.28",8.16,12.8,73.28,Low,3.02,Low,low growth,21.7,19.6,Low
+Brazil,LatinAmerica,upper_middle,"10,294.87",9.89,46.5,84.15,Medium,7.95,Medium,low growth,34.43,12.5,Low
+Bulgaria,Europe_CentralAsia,high,"15,885.54",8.56,20.4,80.39,Medium,4.32,Medium,declining,50,5,Moderate
+Cambodia,Asia-Pacific,lower_middle,"2,429.75",7.53,52.4,56.73,Low,0.4,Low,low growth,9.43,20.3,Low
+Canada,North_America,high,"53,431.19",11.15,23.8,94,High,5.42,Medium,high growth,94.81,4.3,High
+Chile,LatinAmerica,high,"17,067.81",9,24.2,94.12,High,9.01,High,low growth,80.66,5.4,Moderate
+China,Asia-Pacific,upper_middle,"12,614.06",5.38,15.2,77.48,Medium,5.11,Medium,declining,54.25,4.8,High
+Costa Rica,LatinAmerica,upper_middle,"16,942.03",7.57,34.2,85.13,Medium,8.33,High,low growth,72.64,6.9,Moderate
+Croatia,Europe_CentralAsia,high,"21,865.46",8.1,34.1,83.24,Medium,6.09,Medium,low growth,59.91,3.9,Moderate
+Dominican Republic,LatinAmerica,upper_middle,"10,717.63",4.92,14.8,84.38,Medium,5.56,Medium,low growth,37.74,26.8,Low
+Ecuador,LatinAmerica,upper_middle,"6,609.80",8.29,18.9,72.69,Low,3.51,Low,low growth,27.83,10.5,Low
+Estonia,Europe_CentralAsia,high,"30,133.30",6.94,38,93.18,High,6.38,Medium,high growth,91.51,1.5,High
+Finland,Europe_CentralAsia,high,"52,925.69",10.25,50.2,93.51,High,7.15,Medium,low growth,99.53,1.9,High
+France,Europe_CentralAsia,high,"44,690.93",12.31,16.2,86.84,Medium,7.34,Medium,low growth,83.96,3.3,High
+Germany,Europe_CentralAsia,high,"54,343.23",12.65,17.6,92.48,High,3.07,Low,declining,94.34,3,High
+Guatemala,LatinAmerica,upper_middle,"5,762.82",6.9,62.1,54.4,Low,2.34,Low,high growth,14.15,18.8,Low
+"Hong Kong SAR, China",Asia-Pacific,high,"50,531.74",8.21,0.4,95.61,High,2.95,Low,high growth,93.4,4.4,High
+Hungary,Europe_CentralAsia,high,"22,141.87",7.38,15.3,91.45,High,4.11,Medium,declining,54.72,3.3,Moderate
+Iceland,Europe_CentralAsia,high,"79,636.95",8.57,82.4,99.86,High,3.52,Low,high growth,91.98,2,High
+India,Asia-Pacific,lower_middle,"2,480.79",3.28,34.9,43.41,Low,4.17,Medium,low growth,41.51,25.5,Moderate
+Ireland,Europe_CentralAsia,high,"103,887.80",6.07,12.7,95.59,High,4.29,Medium,high growth,92.92,2.7,High
+Israel,MENA,high,"52,642.43",7.9,6.2,91.85,High,3.37,Low,high growth,78.77,2.7,High
+Italy,Europe_CentralAsia,high,"39,003.32",9,17.5,87.03,Medium,7.63,Medium,declining,67.92,2.2,Moderate
+Jamaica,LatinAmerica,upper_middle,"6,839.73",7.19,10.5,85.12,Medium,3.02,Low,low growth,50.94,16.1,Moderate
+Japan,Asia-Pacific,high,"33,766.53",10.82,8.8,84.92,Medium,2.6,Low,declining,90.09,1.7,High
+Kazakhstan,Europe_CentralAsia,upper_middle,"12,918.87",3.92,2,92.88,High,4.86,Medium,low growth,47.17,8.7,High
+Latvia,Europe_CentralAsia,high,"22,502.84",9.04,44,92.19,High,6.47,Medium,declining,74.53,2.8,High
+Lebanon,MENA,lower_middle,"3,654.36",10.06,6.8,90.05,Medium,11.3,High,low growth,10.85,14.9,Low
+Luxembourg,Europe_CentralAsia,high,"128,678.19",5.46,20.5,99.35,High,5.18,Medium,high growth,96.7,2.2,Moderate
+Malaysia,Asia-Pacific,upper_middle,"11,379.09",4.38,7.5,97.69,High,3.93,Low,low growth,61.79,6.7,High
+Malta,MENA,high,"40,395.77",10.58,8.6,91.92,High,3.11,Low,high growth,58.49,4.9,Moderate
+Mexico,LatinAmerica,upper_middle,"13,790.02",6.08,13,81.18,Medium,2.77,Low,low growth,17.45,11,Moderate
+Mozambique,Sub-Saharan Africa,low,622.99,9.05,76.9,21.21,Low,6.79,Medium,high growth,22.17,48.7,Low
+Netherlands,Europe_CentralAsia,high,"64,572.01",11.29,12.2,97.01,High,3.54,Low,low growth,96.23,3.4,Moderate
+New Zealand,Asia-Pacific,high,"48,280.81",10.05,28.9,95.73,High,3.73,Low,high growth,98.58,3.9,High
+Norway,Europe_CentralAsia,high,"87,925.09",8.14,61.4,99,High,3.57,Low,low growth,99.06,1.8,High
+Pakistan,Asia-Pacific,lower_middle,"1,365.28",2.91,41.6,32.95,Low,6.34,Medium,high growth,18.87,51,Low
+Peru,LatinAmerica,upper_middle,"7,906.59",6.15,30.6,74.68,Low,4.9,Medium,low growth,25.47,11.7,Moderate
+Philippines,Asia-Pacific,lower_middle,"3,804.87",5.1,28,75.21,Medium,2.6,Low,low growth,32.55,21.8,Low
+Poland,Europe_CentralAsia,high,"22,056.67",6.68,15.2,86.41,Medium,2.74,Low,declining,68.87,3.8,Moderate
+Portugal,Europe_CentralAsia,high,"27,331.21",10.62,32.3,85.79,Medium,6.51,Medium,low growth,74.06,2.6,High
+Qatar,MENA,high,"80,195.87",2.89,0,100,High,0.13,Low,declining,75,4.5,Moderate
+Romania,Europe_CentralAsia,high,"18,404.27",6.48,23.6,89.2,Medium,5.59,Medium,low growth,56.13,5.5,Moderate
+Russian Federation,Europe_CentralAsia,high,"13,817.05",7.39,3.5,92.25,High,3.08,Low,declining,15.57,3.8,High
+Saudi Arabia,MENA,high,"32,093.96",5.97,0.1,100,High,4.01,Medium,high growth,66.51,5.5,Moderate
+Singapore,Asia-Pacific,high,"84,734.26",5.57,1.1,94.29,High,3.44,Low,high growth,98.11,1.8,High
+South Africa,Sub-Saharan Africa,upper_middle,"6,022.54",8.27,9.7,74.7,Low,32.1,High,low growth,45.75,27.7,Moderate
+Spain,Europe_CentralAsia,high,"33,509.01",10.74,19,95.45,High,12.18,High,low growth,71.7,2.5,High
+Sweden,Europe_CentralAsia,high,"55,516.84",10.67,57.9,95.7,High,7.61,Medium,low growth,97.64,2,High
+Ukraine,Europe_CentralAsia,upper_middle,"5,069.70",8.01,8.9,79.22,Medium,9.83,High,declining,25.94,7,Moderate
+United Arab Emirates,MENA,high,"49,040.69",5.31,1,100,High,2.15,Low,high growth,82.55,4.3,High
+United Kingdom,Europe_CentralAsia,high,"49,463.86",11.34,12.2,95.34,High,4.03,Medium,low growth,90.57,3.6,High
+United States,North_America,high,"82,769.41",16.57,10.9,97.13,High,3.64,Low,low growth,83.02,5.4,High
