@@ -1,0 +1,58 @@
+﻿country,region_group,gdp_per_capita_usd,health_expenditure_pct_gdp,renewable_energy_pct,internet_use_pct,internet_access,control_of_corruption_pctile,infant_mortality_per_1k,business_environment_group
+Argentina,LatinAmerica,"14,187.48",9.71,9.2,89.23,Medium,41.98,8.4,Low
+Australia,Asia-Pacific,"64,820.91",10.54,12.3,94.88,High,95.75,3.2,High
+Austria,Europe_CentralAsia,"56,033.57",12.1,36,95.33,High,83.49,2.6,High
+Belgium,Europe_CentralAsia,"54,700.91",11.04,11.7,94.63,High,89.15,3.1,Moderate
+Bolivia,LatinAmerica,"3,686.28",8.16,12.8,73.28,Low,21.7,19.6,Low
+Brazil,LatinAmerica,"10,294.87",9.89,46.5,84.15,Medium,34.43,12.5,Low
+Bulgaria,Europe_CentralAsia,"15,885.54",8.56,20.4,80.39,Medium,50,5,Moderate
+Cambodia,Asia-Pacific,"2,429.75",7.53,52.4,56.73,Low,9.43,20.3,Low
+Canada,North_America,"53,431.19",11.15,23.8,94,High,94.81,4.3,High
+Chile,LatinAmerica,NA,9,24.2,94.12,High,80.66,5.4,Moderate
+China,Asia-Pacific,"12,614.06",5.38,15.2,77.48,Medium,54.25,4.8,High
+Costa Rica,LatinAmerica,"16,942.03",7.57,34.2,85.13,Medium,72.64,6.9,Moderate
+Croatia,Europe_CentralAsia,"21,865.46",8.1,34.1,83.24,Medium,59.91,3.9,Moderate
+Dominican Republic,LatinAmerica,"10,717.63",4.92,14.8,84.38,Medium,37.74,26.8,Low
+Ecuador,LatinAmerica,"6,609.80",8.29,18.9,72.69,Low,27.83,10.5,Low
+Estonia,Europe_CentralAsia,"30,133.30",6.94,38,93.18,High,91.51,1.5,High
+Finland,Europe_CentralAsia,"52,925.69",10.25,50.2,93.51,High,99.53,1.9,High
+France,Europe_CentralAsia,"44,690.93",12.31,16.2,86.84,Medium,83.96,3.3,High
+Germany,Europe_CentralAsia,"54,343.23",12.65,17.6,92.48,High,94.34,3,High
+Guatemala,LatinAmerica,"5,762.82",6.9,62.1,54.4,Low,14.15,18.8,Low
+"Hong Kong SAR, China",Asia-Pacific,"50,531.74",8.21,0.4,95.61,High,93.4,4.4,High
+Hungary,Europe_CentralAsia,"22,141.87",7.38,15.3,91.45,High,54.72,3.3,Moderate
+Iceland,Europe_CentralAsia,"79,636.95",8.57,82.4,99.86,High,91.98,2,High
+India,Asia-Pacific,"2,480.79",3.28,34.9,43.41,Low,41.51,25.5,Moderate
+Ireland,Europe_CentralAsia,"103,887.80",6.07,12.7,95.59,High,92.92,2.7,High
+Israel,MENA,"52,642.43",7.9,6.2,91.85,High,78.77,2.7,High
+Italy,Europe_CentralAsia,"39,003.32",9,17.5,87.03,Medium,67.92,2.2,Moderate
+Jamaica,LatinAmerica,"6,839.73",7.19,10.5,85.12,Medium,50.94,16.1,Moderate
+Japan,Asia-Pacific,"33,766.53",10.82,8.8,84.92,Medium,90.09,1.7,High
+Kazakhstan,Europe_CentralAsia,"12,918.87",3.92,2,92.88,High,47.17,8.7,High
+Latvia,Europe_CentralAsia,NA,9.04,44,92.19,High,74.53,2.8,High
+Lebanon,MENA,"3,654.36",10.06,6.8,90.05,Medium,10.85,14.9,Low
+Luxembourg,Europe_CentralAsia,"128,678.19",5.46,NA,99.35,High,96.7,2.2,Moderate
+Malaysia,Asia-Pacific,"11,379.09",4.38,7.5,97.69,High,61.79,6.7,High
+Malta,MENA,"40,395.77",10.58,8.6,91.92,High,58.49,4.9,Moderate
+Mexico,LatinAmerica,"13,790.02",6.08,13,81.18,Medium,17.45,11,Moderate
+Mozambique,Sub-Saharan Africa,622.99,9.05,76.9,NA,Low,22.17,48.7,Low
+Netherlands,Europe_CentralAsia,"64,572.01",11.29,12.2,97.01,High,96.23,3.4,Moderate
+New Zealand,Asia-Pacific,"48,280.81",10.05,28.9,95.73,High,98.58,3.9,High
+Norway,Europe_CentralAsia,"87,925.09",8.14,61.4,99,High,99.06,1.8,High
+Pakistan,Asia-Pacific,"1,365.28",2.91,41.6,NA,Low,18.87,51,Low
+Peru,LatinAmerica,"7,906.59",6.15,30.6,74.68,Low,25.47,NA,Moderate
+Philippines,Asia-Pacific,"3,804.87",5.1,28,75.21,Medium,32.55,21.8,Low
+Poland,Europe_CentralAsia,"22,056.67",6.68,15.2,86.41,Medium,68.87,3.8,Moderate
+Portugal,Europe_CentralAsia,"27,331.21",10.62,32.3,85.79,Medium,74.06,2.6,High
+Qatar,MENA,"80,195.87",2.89,0,100,High,75,4.5,Moderate
+Romania,Europe_CentralAsia,"18,404.27",6.48,23.6,89.2,Medium,56.13,NA,Moderate
+Russian Federation,Europe_CentralAsia,"13,817.05",7.39,3.5,92.25,High,15.57,3.8,High
+Saudi Arabia,MENA,"32,093.96",5.97,0.1,100,High,66.51,5.5,Moderate
+Singapore,Asia-Pacific,"84,734.26",5.57,1.1,94.29,High,98.11,1.8,High
+South Africa,Sub-Saharan Africa,"6,022.54",8.27,9.7,74.7,Low,45.75,27.7,Moderate
+Spain,Europe_CentralAsia,"33,509.01",10.74,19,95.45,High,71.7,2.5,High
+Sweden,Europe_CentralAsia,"55,516.84",10.67,57.9,95.7,High,97.64,2,High
+Ukraine,Europe_CentralAsia,"5,069.70",8.01,8.9,79.22,Medium,25.94,7,Moderate
+United Arab Emirates,MENA,"49,040.69",5.31,1,100,High,82.55,4.3,High
+United Kingdom,Europe_CentralAsia,"49,463.86",11.34,12.2,95.34,High,90.57,3.6,High
+United States,North_America,"82,769.41",16.57,10.9,97.13,High,83.02,5.4,High
